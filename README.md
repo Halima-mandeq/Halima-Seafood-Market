@@ -54,7 +54,6 @@ The system follows a **client-server architecture** with:
   - `messages` - Real-time chat system
   - `special_prices` - Personalized pricing offers
 
----
 
 ##  Project Structure
 
@@ -225,7 +224,7 @@ Halima Seafood Market/
 - `action=send`: Send message to admin
 - `action=fetch`: Get conversation history
 
----
+
 
 ### 3️. Auth Folder
 
