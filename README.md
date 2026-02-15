@@ -1,4 +1,4 @@
-#  
+#   Halima Seafood Market - E-Commerce Platform
 
 ##  Project Overview
 
